@@ -1,5 +1,3 @@
 tensorflow
 numpy
 cv2
-streamlit 
-streamlit-webrtc
